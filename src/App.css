@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background-color: #333;
+  padding: 2rem;
+  text-align: center;
+  color: antiquewhite;
+}
+
+footer{
+  background-color: #333;
+  padding: 2rem;
+  text-align: center;
+  color: antiquewhite;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+}
