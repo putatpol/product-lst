@@ -3,7 +3,6 @@ import "./App.css";
 import Header from "./components/Header";
 import Content from "./components/Content";
 import Footer from "./components/Footer";
-import axios from "axios";
 
 function App() {
  
@@ -11,7 +10,7 @@ function App() {
     <>
       <Header />
       <Content />
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }
